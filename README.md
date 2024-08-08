@@ -1,10 +1,10 @@
 <h2 align="left">About me</h2>
 
 ###
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">-Transição de Carreira: Técnico em Enfermagem com mais de 7 anos de experiência, agora migrando para Desenvolvedor Full Stack.<br><br>-Formação Acadêmica: Cursando Análise e Desenvolvimento de Sistemas na Gran Faculdade.<br><br>-Capacitação Profissional: Participando do curso Full Stack da B7Web.</p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<h2 align="left">Social Media</h2>
+
 ###
 
 <h2 align="left">Techs</h2>
@@ -45,6 +45,7 @@
 
 ###
 
+<h2 align="left">Social Media</h2>
 
 ###
 
